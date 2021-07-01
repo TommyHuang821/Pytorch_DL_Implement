@@ -11,6 +11,8 @@ Class 1:<br>
 
 
 Class 2: 2021/07/01 (預計) <br>
+03_Pytorch_dataAug.ipynb<br>
 03_Pytorch_dataAug_Perspective.ipynb <br>
 04_pytorch_classification.ipynb <br>
 05_pytorch_Advanced.ipynb <br>
+06_pytorch_classification_example.ipynb<br>
