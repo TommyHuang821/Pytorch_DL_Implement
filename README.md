@@ -60,6 +60,19 @@
 1. Image semantic segmentation: 建立一個UNet架構，必且以VOC2007資料庫為例<br>
 2. DCGAN，以MNIST為例
 3. Stacked AutoEncoder，以MNIST為例
+**PPT:<br>**
+
+- [class 4 深度學習Pytorch手把手實作_Segmentation.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/class%204%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_Segmentation.pptx)<br>
+- [class 4 深度學習Pytorch手把手實作_AutoEncoer.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/class%204%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_AutoEncoer.pptx)<br>
+- [class 4 深度學習Pytorch手把手實作_GAN](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/class%204%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_GAN.pptx)<br>
+
+**Code Example:<br>**
+
+- [10_pytorch_SemanticSegmentation_VOC2007](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/10_pytorch_SemanticSegmentation_VOC2007.ipynb)<br>
+- [11_Pytorch_AutoEncoder.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/11_Pytorch_AutoEncoder.ipynb)<br>
+- [12_Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/12_Pytorch_DCGAN.ipynb)<br>
+
+
 
 ---------------------------
 ## Class 5: 2021/07/22 <br>
