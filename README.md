@@ -60,6 +60,11 @@
 1. Image semantic segmentation: 建立一個UNet架構，必且以VOC2007資料庫為例<br>
 2. DCGAN，以MNIST為例
 3. Stacked AutoEncoder，以MNIST為例
+
+Note: <br>
+VOC2007資料庫，我先載好放到[google drive](https://drive.google.com/drive/folders/1qzTvjnF9YziEhFMJqpEvWWAz9FBn_Hf0?usp=sharing)，大家可以先去下載<br>
+下載後放置\dataset資料夾內，然後解壓縮即可。
+
 **PPT:<br>**
 
 - [class 4 深度學習Pytorch手把手實作_Segmentation.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/class%204%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_Segmentation.pptx)<br>
