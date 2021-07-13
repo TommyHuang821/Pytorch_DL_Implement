@@ -73,10 +73,22 @@ VOC2007資料庫，我先載好放到[google drive](https://drive.google.com/dri
 
 **Code Example:<br>**
 
-- [10_pytorch_SemanticSegmentation_VOC2007](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/10_pytorch_SemanticSegmentation_VOC2007.ipynb)<br>
-- [11_Pytorch_AutoEncoder.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/11_Pytorch_AutoEncoder.ipynb)<br>
-- [12_Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/12_Pytorch_DCGAN.ipynb)<br>
-
+- [10_pytorch_SemanticSegmentation_VOC2007](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/10_pytorch_SemanticSegmentation_VOC2007.ipynb)
+( 我先訓練好的權重檔案: 
+[Seg_Train_scratch](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/model_seg_scratch.pt),
+[Seg_Train_TransferLearning](https://drive.google.com/file/d/10H3jnoJql3D0pbqanQn9UHJEwNcpFtjT/view?usp=sharing)
+)<br>
+- [11_Pytorch_AutoEncoder.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/11_Pytorch_AutoEncoder.ipynb) 
+( 我先訓練好的權重檔案: 
+[AE_MNIST.pth](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/mode_AutoEncoder_MNIST.pth), 
+[AE_MNIST_Decoder.pth](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/mode_AutoEncoder_MNIST_Decoder.pth), 
+[AE_MNIST_Encoder.pth](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/mode_AutoEncoder_MNIST_Encoder.pth)
+)<br>
+- [12_Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/12_Pytorch_DCGAN.ipynb)
+( 我先訓練好的權重檔案: 
+[DCGAN_Generator](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/DCGAN_Generator.pth),
+[DCGAN_Discriminator](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/DCGAN_Discriminator.pth)
+)<br>
 
 
 ---------------------------
