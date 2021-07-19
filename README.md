@@ -94,5 +94,25 @@ VOC2007資料庫，我先載好放到[google drive](https://drive.google.com/dri
 ---------------------------
 ## Class 5: 2021/07/22 <br>
 **內容概述:** <br>
-Object Detection概述，手刻一個最原始的物件偵測模型、利用YOLO loss達到物件偵測的效果。<br>
+1. Road-Sign-Detection資料庫介紹。<br>
+2. Object Detection概述和 手刻一個最陽春的物件偵測模型。<br>
+3. 利用YOLOv1的loss function來進行物件偵測。<br>
 
+Note: <br>
+Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](https://drive.google.com/file/d/14J8yAijguBeKIZ1cvs9qR3fsDdrZTVui/view?usp=sharing)，大家可以先去下載<br>
+下載後放置\dataset資料夾內，然後解壓縮即可。
+
+**PPT:<br>**
+
+
+**Code Example:<br>**
+
+- [13_DataBase_TrafficSign.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/13_DataBase_TrafficSign.ipynb)<br>
+- [14_pytorch_objectdetection.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/14_pytorch_objectdetection.ipynb)
+(我先訓練好的權重檔案: 
+[Model_OD_trafficsign.pth](https://drive.google.com/file/d/1I0f3BSFMwUymEvf2e6jF8IXVGns5ou6-/view?usp=sharing)
+)<br>
+- [15_pytorch_objectdetection_yolov1.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/15_pytorch_objectdetection_yolov1.ipynb)
+(我先訓練好的權重檔案: 
+[YOLOv1_RestNet18.pth](https://drive.google.com/file/d/1vuQrQukLD3P8aKTqeFVs8fWaqfbZCRwW/view?usp=sharing)
+)<br>
