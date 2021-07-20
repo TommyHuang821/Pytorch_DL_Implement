@@ -103,7 +103,7 @@ Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](h
 下載後放置\dataset資料夾內，然後解壓縮即可。
 
 **PPT:<br>**
-
+- [Class 5 深度學習Pytorch手把手實作_物件偵測.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Class%205%20%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%AC.pptx)<br>
 
 **Code Example:<br>**
 
