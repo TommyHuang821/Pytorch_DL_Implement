@@ -118,3 +118,24 @@ Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](h
 [YOLOv1_RestNet18.pth](https://drive.google.com/file/d/1vuQrQukLD3P8aKTqeFVs8fWaqfbZCRwW/view?usp=sharing)
 )<br>
 - [16_pytorch_HowtoModelLoading.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/16_pytorch_HowtoModelLoading.ipynb)
+
+
+---------------------------
+## Class 6: 2021/07/29 <br>
+**內容概述:** <br>
+1. IoU簡介。<br>
+2. 利用YOLOv3來進行物件偵測。<br>
+ 
+Note: <br>
+Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](https://drive.google.com/file/d/14J8yAijguBeKIZ1cvs9qR3fsDdrZTVui/view?usp=sharing)，大家可以先去下載<br>
+下載後放置\dataset資料夾內，然後解壓縮即可。
+
+**PPT:<br>**
+- [Class 6-2深度學習Pytorch手把手實作_物件偵測YOLOv2.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Class%206%20-2%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92Pytorch%E6%89%8B%E6%8A%8A%E6%89%8B%E5%AF%A6%E4%BD%9C_%E7%89%A9%E4%BB%B6%E5%81%B5%E6%B8%ACYOLOv2.pptx)<br>
+
+**Code Example:<br>**
+- [17_IoU-PytorchNumpy.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/17_IoU-PytorchNumpy.ipynb)
+- [18_pytorch_objectdetection_yolov2.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/18_pytorch_objectdetection_yolov2.ipynb)
+(我先訓練好的權重檔案: 
+[yolov2_5.pth](https://drive.google.com/file/d/17GJ4VbWMtUlKYmX_KCyHHmrmSR6Cbu2z/view?usp=sharing)
+)<br>
