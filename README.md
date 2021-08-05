@@ -139,3 +139,25 @@ Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](h
 (我先訓練好的權重檔案: 
 [yolov2_5.pth](https://drive.google.com/file/d/17GJ4VbWMtUlKYmX_KCyHHmrmSR6Cbu2z/view?usp=sharing)
 )<br>
+
+
+---------------------------
+## Class 7: 2021/08/05 <br>
+講師: AIRD 曾華志(Geroge)<br>
+
+**內容概述:** <br>
+Quantization: Quantization Flow, Per-channel and Per-layer Quantization, Quantization Aware Training <br>
+
+Note: [貓狗測試資料庫](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/cat_dog.rar)<br>
+
+**PPT:<br>**
+- [Quantization 20210805.pptx](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/Quantization%2020210805.pptx)<br>
+
+**Code Example:<br>**
+- [example_1_sample_quantization.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_1_sample_quantization.ipynb)
+- [example_2_symmtric_vs_asymmtric.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_2_symmtric_vs_asymmtric.ipynb)
+- [example_3_conv_bn_relu.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_3_conv_bn_relu.ipynb)
+- [example_4_quantize_model_calssifier_cat_dog.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_4_quantize_model_calssifier_cat_dog.ipynb)
+(先訓練好的權重檔案: [BEST_checkpoint.pth](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/BEST_checkpoint.pth.tar))<br> 
+
+
