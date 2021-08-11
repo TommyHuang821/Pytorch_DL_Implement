@@ -1,6 +1,8 @@
 # Pytorch手把手實作課程
 
-此github repository是放置「pytorch手把手實作課程」檔案教材用
+此github repository是放置「pytorch手把手實作課程」檔案教材用<br>
+
+**投影片因可能涉及公司相關內容，所以下架，但Code Example不涉及公司相關內容，所以還是能下載來用。**
 
 ## Class 1:<br>
 **內容概述:** <br>
@@ -20,7 +22,7 @@
 - [02_pytorch_dataloader_linux.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/02_pytorch_dataloader_linux.ipynb)<br>
 
 ------------------------------
-## Class 2: 2021/07/01 <br>
+## Class 2: <br>
 **內容概述:** <br>
 1.介紹pytorch內建的Data augmentation技巧和怎麼使用這些函數。<br>
 2.介紹怎麼利用pytorch建立整個分類模型的流程(訓練和測試)，在pytorch內建的開源資料庫和私有資料庫上。<br>
@@ -38,7 +40,7 @@
 - [06_pytorch_classification_example.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/06_pytorch_classification_example.ipynb)<br>
 
 ----------------------------
-## Class 3: 2021/07/08 <br>
+## Class 3: <br>
 **內容概述:** <br>
 1.講述有沒有Data augmentation對模型訓練實際的影響，資料庫為CIFAR10。<br>
 2.在pytorch內怎麼建立和操控conv weight以及相關常用的operators(i.e. Pool, activation function)<br>
@@ -55,7 +57,7 @@
 - [09_pytorch_classification_resnet.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/09_pytorch_classification_resnet.ipynb)<br>
 
 ---------------------------
-## Class 4: 2021/07/15 <br>
+## Class 4: <br>
 **內容概述:** <br>
 1. Image semantic segmentation: 建立一個UNet架構，必且以VOC2007資料庫為例<br>
 2. DCGAN，以MNIST為例
@@ -92,7 +94,7 @@ VOC2007資料庫，我先載好放到[google drive](https://drive.google.com/dri
 
 
 ---------------------------
-## Class 5: 2021/07/22 <br>
+## Class 5: <br>
 **內容概述:** <br>
 1. Road-Sign-Detection資料庫介紹。<br>
 2. Object Detection概述和 手刻一個最陽春的物件偵測模型。<br>
@@ -121,7 +123,7 @@ Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](h
 
 
 ---------------------------
-## Class 6: 2021/07/29 <br>
+## Class 6:  <br>
 **內容概述:** <br>
 1. IoU簡介。<br>
 2. 利用YOLOv3來進行物件偵測。<br>
@@ -142,7 +144,7 @@ Road-Sign-Detection資料庫，我先載好放到[google drive - stopsign.zip](h
 
 
 ---------------------------
-## Class 7: 2021/08/05 <br>
+## Class 7: <br>
 講師: AIRD 曾華志(Geroge)<br>
 
 **內容概述:** <br>
