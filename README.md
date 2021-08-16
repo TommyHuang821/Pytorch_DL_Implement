@@ -159,7 +159,7 @@ Note: [貓狗測試資料庫](https://github.com/TommyHuang821/Pytorch_DL_Implem
 - [example_1_sample_quantization.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_1_sample_quantization.ipynb)
 - [example_2_symmtric_vs_asymmtric.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_2_symmtric_vs_asymmtric.ipynb)
 - [example_3_conv_bn_relu.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_3_conv_bn_relu.ipynb)
-- [example_4_quantize_model_calssifier_cat_dog.ipynb](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/example_4_quantize_model_calssifier_cat_dog.ipynb)
+- example_4_quantize_model_calssifier_cat_dog.ipynb (不公開)
 (先訓練好的權重檔案: [BEST_checkpoint.pth](https://github.com/TommyHuang821/Pytorch_DL_Implement/blob/main/Geroge/BEST_checkpoint.pth.tar))<br> 
 
 
